@@ -60,6 +60,9 @@ function App() {
             <button className="btn1">Achievements</button>
             <button className="btn1">Other Skills</button>
           </div>
+           <br />
+          <br />
+          <br />
           <br />
           <br />
           <br />
